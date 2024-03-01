@@ -1,0 +1,18 @@
+/* styles.css */
+
+body {
+    background-color: rgb(69, 127, 146);
+  }
+  
+  h1, h2, h3 {
+    padding: 20px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  li {
+    list-style-type: disc; /* This changes the list items to have bullet points */
+  }
+  
